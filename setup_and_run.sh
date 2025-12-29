@@ -21,7 +21,7 @@ python inference.py \
   --task sr \
   --upscale 4 \
   --version v2.1 \
-  --captioner llava \
+  --captioner none \
   --cfg_scale 8 \
   --noise_aug 0 \
   --input inputs/test \
